@@ -9,7 +9,7 @@ npm i
 ```
 
 ```sh
-cd client
+cd webapp
 npm i
 ```
 
@@ -23,6 +23,6 @@ npx ts-node src/server.ts
 2. Start server for angular
 
 ```sh
-cd client
+cd webapp
 ng serve -o
 ```
